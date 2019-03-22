@@ -10,7 +10,7 @@ def parse_args():
     """ Setup the input and output arguments for the script
     Return the parsed input and output files
     """
-    parser = argparse.ArgumentParser(description='Create ppt report')
+    parser = argparse.ArgumentParser(description='Geocode Street Addresses with ArcGIS')
     parser.add_argument('infile',
                         type=argparse.FileType('r'),
                         help='geocoding address inputs')
