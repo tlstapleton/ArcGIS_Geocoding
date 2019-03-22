@@ -10,4 +10,4 @@ output will give the according latitude and longitude.
 
 ### Example:
 
-![Example](input_example.png)
+![Example](\images\input_example.png)
